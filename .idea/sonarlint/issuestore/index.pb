@@ -38,3 +38,7 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 >
 app/.gitignore,5\1\51e1c5d383dfaa35e0e7e5873a0a99355a86880f
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+w
+Gapp/src/main/java/com/example/hasanflaiahkotlincourse/ActivitySignUp.kt,7\a\7ae98453356ab0f037f6439e797c4dff89125b9c
